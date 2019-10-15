@@ -7,4 +7,4 @@ console.log(typeof new Pessoa)
 
 class Passaro{}
 console.log(typeof Passaro)
-console.log(typeof new Passaro)
+console.log(typeof new Passaro())
