@@ -19,7 +19,7 @@ const imprimirResultado = function (nota){
 
 imprimirResultado(9.4)
 imprimirResultado(3.5)
-imprimirResultado("Jão") */ //Apresenta erro
+imprimirResultado("Jão") */ //Apresenta erro(entre não é função)
 
 const imprimirResultado = function (nota){
     if(nota > 9 && nota < 10){
