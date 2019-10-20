@@ -5,5 +5,5 @@ try {
         throw new Error('Erro')
     }
 } catch (e) {
-    console.log(e)
+    console.log("Error")
 }

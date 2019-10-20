@@ -1,3 +1,6 @@
+/*4. Usando destructuring, declare uma variável sala com o valor da sala do seguinte ob-
+jeto. */
+
 const fisica = {
 
     nome: 'Física',

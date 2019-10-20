@@ -1,0 +1,5 @@
+15. Quais as vantagens de um objeto JSON?
+
+- Sintaxe simples, de fácil aprendizado e implementação;
+- Tamanho do arquivo bem menor em relação a outras “linguagens intermediárias”, tais como XML;
+- Facilidade de desenvolvimento e alto desempenho nas aplicações que o utilizam.

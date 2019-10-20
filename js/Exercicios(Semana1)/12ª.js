@@ -1,17 +1,15 @@
 //12. Transforme a seguinte operação ternária em uma instrução if.
-let a = 3
-let b = 4
 
-const value = (a,b) => a ? b ? 1 : -1 : 0
+//const value = a ? b ? 1 : -1 : 0
 
-console.log(value(3,4))
+let value
 
-/* if(a){
+if(a){
     if(b){
-        return 1
+        value = 1
     }else{
-        return -1
+        value -1
     }
 }else{
-    return 0
-}*/
+    value = 0
+}

@@ -1,3 +1,6 @@
+/* 9.Dado o objeto abaixo, declare uma função saudacaoMaria que utilizando o método
+saudacao do objeto joao imprima Olá Maria. */
+
 const joao = {
     nome: 'João',
     saudacao() {
