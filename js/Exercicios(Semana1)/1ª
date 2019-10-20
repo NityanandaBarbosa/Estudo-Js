@@ -1,0 +1,2 @@
+1. Quais os tipos de declaração de variável (var, let e const) sofrem do hoisting?
+    R : Somente as variaveis do tipo var

@@ -1,0 +1,2 @@
+8. Indique uma vantagem ao utilizar o Immediately invoked function expression (IIFE).
+- A vantagem de se usar IIFE é "fuga" escopo global.

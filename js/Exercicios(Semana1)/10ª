@@ -1,0 +1,5 @@
+    10. Quais as vantagens da arrow function?
+
+    - Tem um sintaxe mais curta que as funções tradicionais
+    - Seu valor de this é definido à partir das funções onde foram definidas. 
+    Ou seja, não é mais necessário fazer bind() ou armazenar o estado em that = this;

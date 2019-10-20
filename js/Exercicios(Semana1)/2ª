@@ -1,0 +1,3 @@
+2. Os tipos primitivos number e string são passados por valor ou por referência? E os
+tipos array e object?
+    R : number e string são por valor, já array e object por referência
